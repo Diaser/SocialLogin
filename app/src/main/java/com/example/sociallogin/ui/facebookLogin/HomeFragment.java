@@ -1,4 +1,4 @@
-package com.example.sociallogin.ui.home;
+package com.example.sociallogin.ui.facebookLogin;
 
 import android.content.Intent;
 import android.os.Bundle;
