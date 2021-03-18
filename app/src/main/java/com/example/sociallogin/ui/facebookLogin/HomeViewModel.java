@@ -1,4 +1,4 @@
-package com.example.sociallogin.ui.home;
+package com.example.sociallogin.ui.facebookLogin;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

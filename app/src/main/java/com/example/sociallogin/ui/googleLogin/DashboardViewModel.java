@@ -1,4 +1,4 @@
-package com.example.sociallogin.ui.dashboard;
+package com.example.sociallogin.ui.googleLogin;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;
